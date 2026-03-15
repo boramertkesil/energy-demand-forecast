@@ -1,7 +1,7 @@
-numpy>=2.3
-pandas>=2.3
-scikit-learn>=1.8
-lightgbm>=4.6
+numpy==2.3.5
+pandas==2.3.3
+scikit-learn==1.8.0
+lightgbm==4.6.0
 statsmodels>=0.14
 skforecast==0.20.1
 awswrangler>=3.15
